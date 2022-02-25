@@ -1,0 +1,1003 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A survey of the buildings and encroachments on the river of Thames, on both sides from London-Bridge eastwards to the lower end of Lyme-house: taken by the principal officers and commissioners of his Majesties navy, with the assistance of the elder brethren of Trinity-house, in pursuance of an order of the right honourable the Lords Commissioners for executing the office of Lord High Admiral of England, dated the first of March, 1683/4. Wherein is also particularly expressed which of the said buildings and encroachments are old, and which are new, and likewise which of them are judged most prejudicial to navigation and the river; together with references to each of them by numbers in the draught of the river lately made by Captain Collins.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61992</idno>
+            <idno type="STC">Wing S6198</idno>
+            <idno type="STC">ESTC R222173</idno>
+            <idno type="EEBO-CITATION">99833394</idno>
+            <idno type="PROQUEST">99833394</idno>
+            <idno type="VID">37870</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61992)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37870)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2198:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A survey of the buildings and encroachments on the river of Thames, on both sides from London-Bridge eastwards to the lower end of Lyme-house: taken by the principal officers and commissioners of his Majesties navy, with the assistance of the elder brethren of Trinity-house, in pursuance of an order of the right honourable the Lords Commissioners for executing the office of Lord High Admiral of England, dated the first of March, 1683/4. Wherein is also particularly expressed which of the said buildings and encroachments are old, and which are new, and likewise which of them are judged most prejudicial to navigation and the river; together with references to each of them by numbers in the draught of the river lately made by Captain Collins.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p. )   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>A list of the buildings on either side of the river from London-Bridge, eastward.</note>
+                  <note>Reproduction of the original in the Guildhall Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Navigation --  Early works to 1800.</term>
+               <term>Thames River (England) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="table">
+            <pb facs="tcp:37870:1"/>
+            <head>A SURVEY OF THE Buildings and Encroachments on the River of <hi>Thames,</hi> on both ſides, from <hi>London-Bridge</hi> Eaſtwards to the lower end of <hi>Lyme-houſe:</hi> Taken by the Prin<g ref="char:EOLhyphen"/>cipal Officers and Commiſſioners of his Majeſties Navy, with the Aſſiſtance of the Elder Brethren of <hi>Trinity-houſe,</hi> in purſuance of an Order of the Right Honourable the Lords Commiſſioners for Executing the Office of Lord High Admiral of <hi>England,</hi> Dated the Firſt of <hi>March,</hi> 1683/4. Wherein is alſo particularly expreſſed which of the ſaid Buildings and Encroachments are <hi>Old,</hi> and which are <hi>New,</hi> and likewiſe which of them are judged moſt prejudicial to Navigation and the River; together with Re<g ref="char:EOLhyphen"/>ferences to each of them by Numbers in the Draught of the River lately made by Captain <hi>Collins.</hi>
+            </head>
+            <p>
+               <table>
+                  <head>On the South-ſide of the River, from <hi>London-Bridge,</hi> Eaſtward.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell role="label" cols="3">Dimenſions.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Numbers in the Draught.</cell>
+                     <cell role="label">Buildings and Encroachments.</cell>
+                     <cell role="label">Feet from Eaſt to Weſt.</cell>
+                     <cell role="label">Feet out into the River.</cell>
+                     <cell role="label">Old or New, and which prejudicial.</cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>AT <hi>Allen</hi>'s Dye-houſe a pott Gallery</cell>
+                     <cell>21</cell>
+                     <cell>12</cell>
+                     <cell rows="2">Old</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>A Pair of Stairs</cell>
+                     <cell>21</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>Mr. <hi>Cholmley</hi> the Brewer, a pair of Stairs</cell>
+                     <cell>100</cell>
+                     <cell>9</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>Mr. <hi>Gibbs</hi>'s Wharf on the Eaſt-ſide <hi>Pickleherring-ſtairs</hi>
+                     </cell>
+                     <cell>14</cell>
+                     <cell>15</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>A Pott Gallery upon the Weſt-ſide of <hi>Still-ſtairs</hi>
+                     </cell>
+                     <cell>90</cell>
+                     <cell>5. 6. 7. 8. 9.</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>A Pot Gallery to the Weſt of <hi>Wheelers-yard</hi>
+                     </cell>
+                     <cell>85</cell>
+                     <cell>9</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>
+                        <hi>Stephen Matthews,</hi> alias Mr. <hi>Lewſley</hi>'s Wharf</cell>
+                     <cell>40</cell>
+                     <cell>3</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>From the Weſt End of Mr. <hi>Cundy</hi>'s Wharf to the Weſt End of Mr. <hi>Boddy</hi>'s Yard</cell>
+                     <cell>200</cell>
+                     <cell>5</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>From the Weſt end of <hi>Cundy</hi>'s Wharf to the Eaſt of <hi>Philip Caſtney</hi>'s Wharf</cell>
+                     <cell>37</cell>
+                     <cell>
+                        <hi>W</hi> 3 <hi>E</hi> 23</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>Mr. <hi>Partridge</hi>'s Wharf</cell>
+                     <cell>35</cell>
+                     <cell>
+                        <hi>W</hi> 20 <hi>E</hi> 2</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>
+                        <hi>St. Saviours Dock,</hi> Mr. <hi>Veering</hi>'s Timber-Yard</cell>
+                     <cell>110</cell>
+                     <cell>
+                        <hi>E</hi> 5</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>11</cell>
+                     <cell>Mr. <hi>Heyden,</hi> junior, alias <hi>Collins</hi>'s Yard</cell>
+                     <cell>40</cell>
+                     <cell>
+                        <hi>W</hi> 5 <hi>E</hi> 28</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>12</cell>
+                     <cell>Mr. <hi>Heyden,</hi> ſenior, his Launch</cell>
+                     <cell>50</cell>
+                     <cell>
+                        <hi>W</hi> 30 <hi>E</hi> 3</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>13</cell>
+                     <cell>From Mr. <hi>Stephens</hi>'s Houſe to the Stairs at the Weſt-end of his Yard</cell>
+                     <cell>127</cell>
+                     <cell>5</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>14</cell>
+                     <cell>Mr. <hi>Stephens</hi>'s Houſe and Wharf</cell>
+                     <cell>40</cell>
+                     <cell>
+                        <hi>W</hi> 4 <hi>E</hi> 5</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>15</cell>
+                     <cell>
+                        <hi>Thomas Huggins</hi>'s Yard</cell>
+                     <cell>100</cell>
+                     <cell>
+                        <hi>W</hi> 25 <hi>E</hi> 4</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>16</cell>
+                     <cell>
+                        <hi>William Ebbins</hi>'s Wharf</cell>
+                     <cell>35</cell>
+                     <cell>
+                        <hi>W</hi> 2 <hi>E</hi> 16</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>17</cell>
+                     <cell>Weſt of <hi>Three-Mariners-ſtairs</hi>
+                     </cell>
+                     <cell>68</cell>
+                     <cell>
+                        <hi>W</hi> 3 <hi>E</hi> 6</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>18</cell>
+                     <cell>Mr. <hi>Caſtle</hi>'s, alias <hi>Narbrough</hi>'s Yard</cell>
+                     <cell>80</cell>
+                     <cell>
+                        <hi>W</hi> 5 <hi>E</hi> 27</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>19</cell>
+                     <cell>Mr. <hi>Stephens</hi>'s Houſe and Wharf</cell>
+                     <cell>35</cell>
+                     <cell>7</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>20</cell>
+                     <cell>Mr. <hi>Eldridge</hi>'s Wharf</cell>
+                     <cell>100</cell>
+                     <cell>8</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>21</cell>
+                     <cell>From thence Eaſt to <hi>Redriff-Bite</hi>
+                     </cell>
+                     <cell>40</cell>
+                     <cell>
+                        <hi>E</hi> 23</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>22</cell>
+                     <cell>From Eaſt-ſide of <hi>Redriff-Bite</hi> to the Weſt of <hi>Church-Wharf</hi>
+                     </cell>
+                     <cell>400</cell>
+                     <cell>
+                        <hi>W</hi> 20 <hi>E</hi> 2</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>23</cell>
+                     <cell>From the Weſt-ſide of Captain <hi>Bowers</hi>'s Houſe to the Eaſt-ſide of Mr. <hi>Whittingham</hi>'s</cell>
+                     <cell>152</cell>
+                     <cell>
+                        <hi>W</hi> 15 <hi>E</hi> 36</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>24</cell>
+                     <cell>From the Crane againſt <hi>Redriff-Church-ſteeple</hi> to the Eaſt-end of <hi>Slightfoot</hi>'s Houſe</cell>
+                     <cell>130</cell>
+                     <cell>
+                        <hi>W</hi> 28 <hi>E</hi> 16</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>25</cell>
+                     <cell>Mr. <hi>Brownloe</hi>'s Wharf</cell>
+                     <cell>26</cell>
+                     <cell>
+                        <hi>E</hi> 8</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>26</cell>
+                     <cell>Captain <hi>Wardlow</hi>'s Houſe</cell>
+                     <cell>35</cell>
+                     <cell>34</cell>
+                     <cell>New, <hi>prejudicial</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>27</cell>
+                     <cell>From the Eaſt-end of Captain <hi>Wardlow</hi>'s to the Weſt-end of <hi>Farren</hi>'s</cell>
+                     <cell>600</cell>
+                     <cell>10</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>28</cell>
+                     <cell>Mr. <hi>Farren</hi>'s Timber-Wharf by <hi>Ruſſel</hi>'s Powder-Mill</cell>
+                     <cell>50</cell>
+                     <cell>10</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>29</cell>
+                     <cell>From <hi>Farren</hi>'s to the Powder-Mill-ſtairs</cell>
+                     <cell>100</cell>
+                     <cell>8</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>30</cell>
+                     <cell>The Yard in the Poſſeſſion of Sir <hi>William Warren</hi> is</cell>
+                     <cell>75</cell>
+                     <cell>20</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>31</cell>
+                     <cell>Sir <hi>Thomas Gold</hi>'s Yard, in the Poſſeſſion of <hi>Graſſingam</hi> and <hi>Collins</hi>
+                     </cell>
+                     <cell>200</cell>
+                     <cell>100</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>32</cell>
+                     <cell>Mr. <hi>Glyde</hi>'s Wharf</cell>
+                     <cell>100</cell>
+                     <cell>11</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>33</cell>
+                     <cell>Mr. <hi>Kirby</hi>'s Yard</cell>
+                     <cell>102</cell>
+                     <cell>11</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>34</cell>
+                     <cell>From the Weſt-ſide of <hi>Rolfe</hi>'s Yard to the Weſt-ſide of <hi>Globe-ſtairs</hi>
+                     </cell>
+                     <cell>175</cell>
+                     <cell>11</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>35</cell>
+                     <cell>The Merchants Plank-Wharf on the Eaſt-ſide of <hi>Globe-ſtairs</hi>
+                     </cell>
+                     <cell>60</cell>
+                     <cell>
+                        <hi>W</hi> 8 <hi>E</hi> 25</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>36</cell>
+                     <cell>Mr. <hi>Shiſhes</hi> Yard and Dock</cell>
+                     <cell>222</cell>
+                     <cell>25</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>37</cell>
+                     <cell>Major <hi>Borneſ's</hi> Wharf to the Eaſt of Mr. <hi>Shiſhes</hi> Yard</cell>
+                     <cell>25</cell>
+                     <cell>25</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>38</cell>
+                     <cell>
+                        <hi>Shepherd and Dogg-ſtairs</hi>
+                     </cell>
+                     <cell>200</cell>
+                     <cell>
+                        <hi>W</hi> 10 <hi>E</hi> 5</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>39</cell>
+                     <cell>From the <hi>Shepard and Dogg-ſtairs</hi> Eaſtward</cell>
+                     <cell>80</cell>
+                     <cell>5</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>40</cell>
+                     <cell>From the Weſt of Mr. <hi>Hunt</hi>'s Gun-wharf to the Weſt of Mr. <hi>Hill</hi>'s Timber-yard</cell>
+                     <cell>160</cell>
+                     <cell>8</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>41</cell>
+                     <cell>Mr. <hi>Hunt</hi>'s Gun-Wharf</cell>
+                     <cell>72</cell>
+                     <cell>8</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>42</cell>
+                     <cell>Next Wharf to Mr. <hi>Walraven</hi>'s Wharf</cell>
+                     <cell>18</cell>
+                     <cell>9</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>43</cell>
+                     <cell>Mr. <hi>Walraven</hi>'s Wharf at the Sign of the <hi>Kings-Head</hi>
+                     </cell>
+                     <cell>20</cell>
+                     <cell>3</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>44</cell>
+                     <cell>From the Weſt-ſide of the Rape-Mill Weſtward</cell>
+                     <cell>100</cell>
+                     <cell>25</cell>
+                     <cell>New</cell>
+                  </row>
+               </table>
+               <pb facs="tcp:37870:2"/>
+               <table>
+                  <head>On the North-ſide of the River, from <hi>London-Bridge</hi> Eaſtward.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell role="label" cols="3">Dimenſions.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Numbers in the Draught.</cell>
+                     <cell role="label">Buildings and Encroachments.</cell>
+                     <cell role="label">Feet from Eaſt to Weſt.</cell>
+                     <cell role="label">Feet out into the River.</cell>
+                     <cell role="label">Old or New, and which prejudicial.</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">1</cell>
+                     <cell>
+                        <hi>BIllinſgate, Smart</hi>'s Key, from the Corner up into the Dock,</cell>
+                     <cell>20</cell>
+                     <cell>8</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>And from thence Eaſtward</cell>
+                     <cell>12</cell>
+                     <cell>8</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>Iron-Gate,</hi> a Cauſway</cell>
+                     <cell> </cell>
+                     <cell>100</cell>
+                     <cell>
+                        <hi>very prejudicial</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>St. Katherines,</hi> from <hi>Iron-Gate</hi> towards <hi>St. Katherines Dock</hi> are Pot Galleries</cell>
+                     <cell>620</cell>
+                     <cell>8 &amp; 10</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>Mr. <hi>Babbington</hi>'s Wharf</cell>
+                     <cell>8</cell>
+                     <cell>6</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>Mr. <hi>Butterfield</hi>'s Wharf</cell>
+                     <cell>46</cell>
+                     <cell>10</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>From Mr. <hi>Butterfield</hi>'s to <hi>Ship-Brew-houſe</hi> a Pot Gallery</cell>
+                     <cell>60</cell>
+                     <cell>10</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>
+                        <hi>John Parſon</hi>'s Wharf</cell>
+                     <cell>21</cell>
+                     <cell>7</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>
+                        <hi>Thomas Harvell</hi>'s Pot Gallery</cell>
+                     <cell>22</cell>
+                     <cell>8</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>
+                        <hi>John Gulick</hi>'s Pot Gallery</cell>
+                     <cell>12</cell>
+                     <cell>10</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>The Widdow <hi>Pardy</hi>'s Cole-Wharf</cell>
+                     <cell>30</cell>
+                     <cell>12</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>11</cell>
+                     <cell>
+                        <hi>Thomas Mallam</hi>'s Pot Gallery</cell>
+                     <cell>15</cell>
+                     <cell>10</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>12</cell>
+                     <cell>Mr. <hi>Bullock</hi>'s three Houſes Pot Galleries</cell>
+                     <cell>40</cell>
+                     <cell>8</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>13</cell>
+                     <cell>Mr. <hi>John Butterworth</hi>
+                     </cell>
+                     <cell>8</cell>
+                     <cell>8</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>14</cell>
+                     <cell>
+                        <hi>Hermitage</hi> a Cauſway</cell>
+                     <cell> </cell>
+                     <cell>100</cell>
+                     <cell>
+                        <hi>prejudicial</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>15</cell>
+                     <cell>
+                        <hi>William Middleton</hi>'s Wharf</cell>
+                     <cell>28</cell>
+                     <cell>3</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>16</cell>
+                     <cell>
+                        <hi>Robert Partridge,</hi> Anchor-ſmith</cell>
+                     <cell>18</cell>
+                     <cell>12</cell>
+                     <cell>New, <hi>prejudicial</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>17</cell>
+                     <cell>Next to him is a Bile about 8 Foot, in which ſhews all between him and <hi>Anderſon</hi> to be Encroached</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>18</cell>
+                     <cell>A Jetty on the Weſt-ſide of <hi>And<gap reason="illegible" resp="#MURP" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ſon</hi>'s and the Eaſt ſide of <hi>Fifield</hi>'s Pot Gallery, by which it appears that thoſe Wharfs and Buildings on each ſide of the ſaid Pot Galleries are Encroached</cell>
+                     <cell> </cell>
+                     <cell>6</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>19</cell>
+                     <cell>Mr. <hi>Snellgrove</hi>'s Yard</cell>
+                     <cell>120</cell>
+                     <cell>6</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Wapping Old-ſtairs</hi> a Cauſway</cell>
+                     <cell> </cell>
+                     <cell>110</cell>
+                     <cell>
+                        <hi>prejudicial</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>21</cell>
+                     <cell>From Widdow <hi>Moppets</hi> Stairs, Eaſtward</cell>
+                     <cell>35</cell>
+                     <cell>5</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>22</cell>
+                     <cell>From thence to the Weſt of Mr. <hi>White</hi>'s Launch</cell>
+                     <cell>20</cell>
+                     <cell>6</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>23</cell>
+                     <cell>From the ſaid Launch to the Eaſt-ſide of <hi>White</hi>'s Yard</cell>
+                     <cell>68</cell>
+                     <cell>15 2</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>24</cell>
+                     <cell>
+                        <hi>Wapping New-ſtairs,</hi> a Cauſway</cell>
+                     <cell> </cell>
+                     <cell>105</cell>
+                     <cell>
+                        <hi>prejudicial</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>25</cell>
+                     <cell>Mr. <hi>Amos Foord</hi>'s Wharf</cell>
+                     <cell>25</cell>
+                     <cell>8</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>26</cell>
+                     <cell>From Mr. <hi>Bradley</hi>'s the Anchor-ſmith's Wharf below <hi>Wapping New-ſtairs</hi> to Mr. <hi>Snipe</hi>'s Houſe</cell>
+                     <cell>710</cell>
+                     <cell>20</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>27</cell>
+                     <cell>
+                        <hi>Wapping-Dock,</hi> a Cauſway</cell>
+                     <cell> </cell>
+                     <cell>120</cell>
+                     <cell>
+                        <hi>prejudicial</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>28</cell>
+                     <cell>From the Weſt-ſide of King <hi>Edward</hi>'s Stairs, Eaſt</cell>
+                     <cell>70</cell>
+                     <cell>14</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>29</cell>
+                     <cell>A Cauſway from King <hi>Edward</hi>'s Stairs</cell>
+                     <cell> </cell>
+                     <cell>120</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>30</cell>
+                     <cell>Sir <hi>William Warren</hi>'s, the Old Encroachment</cell>
+                     <cell>162</cell>
+                     <cell>23</cell>
+                     <cell>New, <hi>very prejudicial.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>the New Encroachment</cell>
+                     <cell>72</cell>
+                     <cell>37</cell>
+                  </row>
+                  <row>
+                     <cell>31</cell>
+                     <cell>From Sir <hi>William Warren</hi>'s to <hi>New-Crane-ſtairs</hi>
+                     </cell>
+                     <cell>190</cell>
+                     <cell>
+                        <hi>E</hi> 23</cell>
+                     <cell>
+                        <hi>prejudicial</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>32</cell>
+                     <cell>
+                        <hi>New Crane, New-Crane-ſtairs</hi> a Cauſway</cell>
+                     <cell> </cell>
+                     <cell>100</cell>
+                     <cell>
+                        <hi>prejudicial</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>33</cell>
+                     <cell>From thence to <hi>George King</hi>'s, a Boat-builders Yard</cell>
+                     <cell>240</cell>
+                     <cell>
+                        <hi>W</hi> 17 <hi>E</hi> 27</cell>
+                     <cell>New, <hi>very preju.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>34</cell>
+                     <cell>Mr. <hi>Baxter</hi>'s Yard or Wharf</cell>
+                     <cell>200</cell>
+                     <cell>
+                        <hi>W</hi> 17 <hi>E</hi> 23</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>35</cell>
+                     <cell>
+                        <hi>Henry Goodman</hi>'s Wharf</cell>
+                     <cell>32</cell>
+                     <cell>13</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>36</cell>
+                     <cell>From <hi>Pellican-ſtairs, James Foſter</hi>'s Wharf</cell>
+                     <cell>25</cell>
+                     <cell>12</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>37</cell>
+                     <cell>
+                        <hi>Voſſe</hi>'s Key</cell>
+                     <cell>140</cell>
+                     <cell>5</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>38</cell>
+                     <cell>
+                        <hi>Roberts</hi> and <hi>Allen</hi>'s Yard</cell>
+                     <cell>70</cell>
+                     <cell>
+                        <hi>W</hi> 2 <hi>E</hi> 10</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>39</cell>
+                     <cell>
+                        <hi>Oxenbridge</hi> and <hi>Allen</hi>'s Yard</cell>
+                     <cell>60</cell>
+                     <cell>10</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>40</cell>
+                     <cell>Mr. <hi>Hill</hi>'s Gun-Wharf</cell>
+                     <cell>70</cell>
+                     <cell>4</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>A Lay-ſtall 3 Foot, and ready to fall</cell>
+                     <cell> </cell>
+                     <cell>3</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>41</cell>
+                     <cell>Mr. <hi>Denn</hi>'s, alias <hi>Buzby</hi> and <hi>Joyce</hi>
+                     </cell>
+                     <cell>25</cell>
+                     <cell>3</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>42</cell>
+                     <cell>
+                        <hi>Bell-wharf</hi> Brew-houſe, with a large Bite going in, Old,</cell>
+                     <cell>84</cell>
+                     <cell>3</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>43</cell>
+                     <cell>
+                        <hi>Francis Beſtwell</hi> 3 Poſts about</cell>
+                     <cell> </cell>
+                     <cell>6</cell>
+                     <cell>
+                        <hi>very prejudicial</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>44</cell>
+                     <cell>Mr. <hi>Edward Hawkins</hi> Pot Gallery</cell>
+                     <cell>35</cell>
+                     <cell>8</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>45</cell>
+                     <cell>Weſt-ſide of <hi>Trinity-Yard</hi>
+                     </cell>
+                     <cell>26</cell>
+                     <cell>18</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Eaſt-ſide of <hi>Trinity-Yard</hi>
+                     </cell>
+                     <cell>20</cell>
+                     <cell>11</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>46</cell>
+                     <cell>
+                        <hi>Robert Warner</hi>'s Pot Gallery</cell>
+                     <cell>25</cell>
+                     <cell>8</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>47</cell>
+                     <cell>Mr. <hi>James Ems</hi> Yard, from the Eaſt-ſide of the Launch to the Eaſt-ſide of the Yard</cell>
+                     <cell>85</cell>
+                     <cell>14</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>48</cell>
+                     <cell>
+                        <hi>Ratcliff-Croſs,</hi> Widdow <hi>Rooks</hi> Wharf</cell>
+                     <cell>80</cell>
+                     <cell>8</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>49</cell>
+                     <cell>Mr. <hi>Crowder</hi>'s Pot Gallery</cell>
+                     <cell>45</cell>
+                     <cell>6</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>50</cell>
+                     <cell>From the Weſt-ſide of Captain <hi>Preſtman</hi>'s Houſe to the Weſt-ſide of <hi>Queens-ſtairs</hi>
+                     </cell>
+                     <cell>56</cell>
+                     <cell>5</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>51</cell>
+                     <cell>
+                        <hi>Queens-ſtairs,</hi> Mr. <hi>Rich</hi>'s a Shipwrights Yard to the Eaſt of <hi>Queens-ſtairs</hi>
+                     </cell>
+                     <cell>60</cell>
+                     <cell>2</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>52</cell>
+                     <cell>From the Eaſt of <hi>Marſhal</hi>'s Houſe to the Eaſt of <hi>Cox</hi>'s Yard</cell>
+                     <cell>41</cell>
+                     <cell>
+                        <hi>W</hi> 2 <hi>E</hi> 8</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>53</cell>
+                     <cell>
+                        <hi>Lyme-houſe-Bridge,</hi> Mr. <hi>Boyce</hi>'s Yard</cell>
+                     <cell>100</cell>
+                     <cell>7</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>54</cell>
+                     <cell>
+                        <hi>Wats,</hi> an Oar-makers Wharf, Eaſt of <hi>Dick-ſhore</hi> to Mr.<hi>Graves</hi>'s Yard</cell>
+                     <cell>54</cell>
+                     <cell>30</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>55</cell>
+                     <cell>
+                        <hi>Thomas Graves</hi>'s Yard and Dock</cell>
+                     <cell>180</cell>
+                     <cell>
+                        <hi>W</hi> 9 <hi>E nil</hi>
+                     </cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>56</cell>
+                     <cell>
+                        <hi>John Graves</hi> a Shipwrights Yard</cell>
+                     <cell>200</cell>
+                     <cell>50</cell>
+                     <cell>Old</cell>
+                  </row>
+                  <row>
+                     <cell>57</cell>
+                     <cell>From the Crane in the Poſſeſſion of Mr. <hi>Margate</hi> to the Stairs by the <hi>Biew-Anchor</hi>
+                     </cell>
+                     <cell>150</cell>
+                     <cell>6</cell>
+                     <cell>New</cell>
+                  </row>
+                  <row>
+                     <cell>58</cell>
+                     <cell>
+                        <hi>Edward Gray</hi>'s Wharf, from the <hi>Blew-Anchor</hi> to the Eaſt-ſide thereof</cell>
+                     <cell>410</cell>
+                     <cell>
+                        <hi>W</hi> 26 <hi>E</hi> 9</cell>
+                     <cell>New</cell>
+                  </row>
+               </table>
+            </p>
+            <closer>
+               <dateline>Navy-Office, <date>30 <hi>Octob.</hi> 84.</date>
+               </dateline>
+               <signed>R. Haddock. J. Tippets. J. Narbrough. J. Sothern. Sam. Chamblet. Simon Nichols. Henry Teddeman. Thomas Brown. Iſaac Wooodgreen. John Hill. Thomas Collier. Nich. Kerrington. Henry Mudd. William Green.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
